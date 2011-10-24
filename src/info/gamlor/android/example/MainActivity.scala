@@ -10,7 +10,7 @@ class MainActivity extends Activity {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.main)
 
-
+    sayHelloFromScala()
   }
 
   def sayHelloFromScala(){
